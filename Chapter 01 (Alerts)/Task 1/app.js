@@ -1,1 +1,1 @@
-alert("Your browser is running slow");
+alert("Welcome To My Website");

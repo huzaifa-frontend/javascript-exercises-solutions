@@ -1,0 +1,1 @@
+document.getElementById('content').innerHTML  ="<p>Yah! I can write HTML content through JavaScript</p>";
