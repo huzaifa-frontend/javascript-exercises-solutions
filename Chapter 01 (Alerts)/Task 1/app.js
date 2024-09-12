@@ -1,0 +1,1 @@
+alert("Your browser is running slow");
