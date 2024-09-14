@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Input & Conditional Statement</title>
+    <style>
+        h1,h2{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chapter 09-11 (User Input & Conditional Statement)</h1>
+    <h2>Task 6</h2>
+
+    <h3>Marks Sheet</h3>
+    <p>Total Marks: <input type="number" id="totalMarks" value="300" oninput="calculateGrade()"></p>
+    <p>Marks in Subject 1: <input type="number" id="subject1" oninput="calculateGrade()"></p>
+    <p>Marks in Subject 2: <input type="number" id="subject2" oninput="calculateGrade()"></p>
+    <p>Marks in Subject 3: <input type="number" id="subject3" oninput="calculateGrade()"></p>
+
+    <h3>Results</h3>
+    <p>Total Marks: <span id="total">300</span></p>
+    <p>Marks Obtained: <span id="obtained"></span></p>
+    <p>Percentage: <span id="percentage"></span>%</p>
+    <p>Grade: <span id="grade"></span></p>
+    <p>Remarks: <span id="remarks"></span></p>
+    <script src="app.js"></script>
+</body>
+</html>
