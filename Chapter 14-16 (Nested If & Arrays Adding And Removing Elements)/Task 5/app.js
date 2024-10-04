@@ -1,0 +1,1 @@
+let boolArray = [true, false, true, false];

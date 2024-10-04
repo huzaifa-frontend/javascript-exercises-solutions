@@ -1,0 +1,1 @@
+let mixedArray = [1, "Hello", true, null, { name: "Alice" }];
