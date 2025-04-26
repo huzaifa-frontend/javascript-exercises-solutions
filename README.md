@@ -1,1 +1,1 @@
-SMIT JavaScript Assignments 
+JavaScript Exercises 
