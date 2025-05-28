@@ -7,7 +7,7 @@
 This repository contains my personal solutions to JavaScript exercises from various chapters. Each chapter folder includes:
 
 - 📝 A **PDF file** with exercise questions
-- 📂 A **`tasks/` folder** containing solution files for each exercise
+- 📂 A **`task/` folder** containing solution files for each exercise
 - 📚 Chapters may be named as single numbers (`01`, `02`, etc.) or ranges (`06-08`) based on the content groupings.
 
 These tasks are part of my learning journey to improve JavaScript fundamentals through consistent practice and organization.
